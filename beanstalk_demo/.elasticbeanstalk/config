@@ -1,0 +1,11 @@
+[global]
+ApplicationName=beanstalk_demo
+AwsCredentialFile=/home/noahsark/.elasticbeanstalk/aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.ap-southeast-1.amazonaws.com
+EnvironmentName=beanstalkdemo-env
+OptionSettingFile=/home/noahsark/workspace/slideshare/beanstalk_demo/.elasticbeanstalk/optionsettings.beanstalkdemo-env
+RdsEnabled=No
+Region=ap-southeast-1
+ServiceEndpoint=https://elasticbeanstalk.ap-southeast-1.amazonaws.com
+SolutionStack=64bit Amazon Linux running Python
+

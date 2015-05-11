@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+docs/build
+storm_demo/storm-starter/target
+python_demo/doc/build
